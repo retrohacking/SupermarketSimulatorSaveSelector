@@ -1,0 +1,2416 @@
+{
+	"Progression" : {
+		"__type" : "SaveManager+ProgressionContainer,Assembly-CSharp",
+		"value" : {
+		"UnlockedLicenses" : [
+			21
+		],
+		"LoanDatas" : [
+			{
+				"LoanID" : 1,
+				"TermLength" : -1,
+				"RemainingPayments" : -1,
+				"Taken" : false
+			},{
+				"LoanID" : 2,
+				"TermLength" : -1,
+				"RemainingPayments" : -1,
+				"Taken" : false
+			},{
+				"LoanID" : 3,
+				"TermLength" : -1,
+				"RemainingPayments" : -1,
+				"Taken" : false
+			},{
+				"LoanID" : 4,
+				"TermLength" : -1,
+				"RemainingPayments" : -1,
+				"Taken" : false
+			}
+		],
+		"Money" : 50,
+		"CartData" : {
+			"ProductInCarts" : [
+				
+			],
+			"FurnituresInCarts" : [
+				
+			],
+			"BucketsInCarts" : [
+				
+			],
+			"FloorBoxesInCarts" : [
+				
+			]
+		},
+		"BoxDatas" : [
+			
+		],
+		"VehicleDatas" : [
+			
+		],
+		"FurnitureBoxDatas" : [
+			
+		],
+		"BucketBoxDatas" : [
+			
+		],
+		"DisplayDatas" : [
+			{
+				"Transform" : {
+					"Position" : {
+						"x" : -3.587,
+						"y" : 0,
+						"z" : 2.29
+					},
+					"Rotation" : {
+						"x" : 0,
+						"y" : 0,
+						"z" : 0,
+						"w" : 1
+					}
+				},
+				"DisplaySlots" : [
+					{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					}
+				],
+				"FurnitureID" : 1
+			},{
+				"Transform" : {
+					"Position" : {
+						"x" : -5.987,
+						"y" : 0,
+						"z" : 2.29
+					},
+					"Rotation" : {
+						"x" : 0,
+						"y" : 0,
+						"z" : 0,
+						"w" : 1
+					}
+				},
+				"DisplaySlots" : [
+					{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					},{
+						"Products" : {
+						},
+						"ProductPrice" : {
+						},
+						"ItemProcessData" : {
+						}
+					}
+				],
+				"FurnitureID" : 1
+			}
+		],
+		"RackDatas" : [
+			
+		],
+		"CheckoutDatas" : [
+			{
+				"Transform" : {
+					"Position" : {
+						"x" : -2.858,
+						"y" : 0,
+						"z" : 5.054
+					},
+					"Rotation" : {
+						"x" : 0,
+						"y" : -0.707106769,
+						"z" : 0,
+						"w" : 0.707106769
+					}
+				},
+				"FurnitureID" : 6,
+				"IsOpen" : true
+			}
+		],
+		"ScaleData" : [
+			
+		],
+		"CategorySignDatas" : [
+			
+		],
+		"DailyStatisticsData" : {
+			"SatisfiedCustomerCount" : 0,
+			"CouldntFindProduct" : 0,
+			"ExpensiveProducts" : 0,
+			"ShortChangeAmount" : 0,
+			"HarmedCustomerCount" : 0,
+			"TotalCustomerCount" : 0,
+			"StorePoint" : 0,
+			"CheckoutIncome" : 0,
+			"SupplyCosts" : 0,
+			"UpgradeCosts" : 0,
+			"CustomizationCosts" : 0,
+			"BillCosts" : 0,
+			"RentCosts" : 0,
+			"LoanIncome" : 0,
+			"LoanPayment" : 0,
+			"StaffPayment" : 0,
+			"PaintCosts" : 0,
+			"FloorBoxCosts" : 0
+		},
+		"FurnitureDatas" : [
+			{
+				"FurnitureID" : 5,
+				"Transform" : {
+					"Position" : {
+						"x" : -1.75,
+						"y" : 2.897,
+						"z" : 6
+					},
+					"Rotation" : {
+						"x" : 0,
+						"y" : 0,
+						"z" : 0,
+						"w" : 1
+					}
+				}
+			},{
+				"FurnitureID" : 5,
+				"Transform" : {
+					"Position" : {
+						"x" : -1.75,
+						"y" : 2.9,
+						"z" : 4
+					},
+					"Rotation" : {
+						"x" : 0,
+						"y" : 0,
+						"z" : 0,
+						"w" : 1
+					}
+				}
+			},{
+				"FurnitureID" : 5,
+				"Transform" : {
+					"Position" : {
+						"x" : -5.75,
+						"y" : 2.897,
+						"z" : 6
+					},
+					"Rotation" : {
+						"x" : 0,
+						"y" : 0,
+						"z" : 0,
+						"w" : 1
+					}
+				}
+			},{
+				"FurnitureID" : 5,
+				"Transform" : {
+					"Position" : {
+						"x" : -5.75,
+						"y" : 2.897,
+						"z" : 4
+					},
+					"Rotation" : {
+						"x" : 0,
+						"y" : 0,
+						"z" : 0,
+						"w" : 1
+					}
+				}
+			}
+		],
+		"ComputerTransform" : {
+			"Position" : {
+				"x" : -0.535,
+				"y" : 0,
+				"z" : 6.91
+			},
+			"Rotation" : {
+				"x" : 0,
+				"y" : -0.7071104,
+				"z" : 0,
+				"w" : -0.707103252
+			}
+		},
+		"CrateProductsData" : [
+			
+		],
+		"SecurityCameraSaveDatas" : [
+			
+		],
+		"CurrentTime" : 0,
+		"CurrentDay" : 1,
+		"LastDayPricesChanged" : 1,
+		"LastWholesaleOfferShown" : {
+			"x" : 1,
+			"y" : 1
+		},
+		"MysteryBox" : false,
+		"IsGarbageOnboardingCompleted" : false,
+		"CleanedGarbageCount" : 0,
+		"CleanedDirtCount" : 0,
+		"CleanedGlassCount" : 0,
+		"CompletedCheckoutCount" : 0,
+		"CurrentStorePoint" : 0,
+		"CurrentStoreLevel" : 1,
+		"StoreUpgradeLevel" : 0,
+		"IsStoreOpen" : false,
+		"PaintedWallCount" : 0,
+		"PaintedFloorCount" : 0,
+		"IsTabletBought" : false,
+		"IsTabletOrdered" : false,
+		"IsCrateBought" : false,
+		"IsCrateEnabled" : false,
+		"IsBatBought" : false,
+		"IsBatEnabled" : false,
+		"IsNewGame" : false,
+		"IsSecurityWarningShowed" : false,
+		"IsTutorialShoplifterBeaten" : false,
+		"IsShoplifterWarningShowed" : false,
+		"IsEnableShoplifterWarningShowed" : false,
+		"IsVeggiesWarningShowed" : false,
+		"IsScaleBought" : false,
+		"IsStallBought" : false,
+		"IsAnyVeggieBought" : false,
+		"IsAnyVeggiePlacedToStall" : false,
+		"IsScaleTutorialCompleted" : false,
+		"IsOnlineOrderTutorialCompleted" : false
+	}
+	},
+	"Onboarding" : {
+		"__type" : "SaveManager+OnboardingContaioner,Assembly-CSharp",
+		"value" : {
+		"Step" : 0,
+		"LightsTutorial" : false,
+		"OverChange" : false,
+		"CompletedShelfObjective" : false,
+		"Version" : "0.0.2",
+		"CompletedNameObjective" : false
+	}
+	},
+	"Price" : {
+		"__type" : "SaveManager+PriceContainer,Assembly-CSharp",
+		"value" : {
+		"Prices" : [
+			{
+				"ProductID" : 33,
+				"Price" : 2.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 70,
+				"Price" : 0.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 83,
+				"Price" : 0.79,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 84,
+				"Price" : 1.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 85,
+				"Price" : 0.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 147,
+				"Price" : 1.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 24,
+				"Price" : 0.95,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 39,
+				"Price" : 1.79,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 55,
+				"Price" : 6.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 62,
+				"Price" : 1.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 66,
+				"Price" : 0.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 151,
+				"Price" : 2.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 68,
+				"Price" : 2.95,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 99,
+				"Price" : 3.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 117,
+				"Price" : 2.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 119,
+				"Price" : 3.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 128,
+				"Price" : 3.95,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 132,
+				"Price" : 0.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 67,
+				"Price" : 0.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 73,
+				"Price" : 0.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 74,
+				"Price" : 0.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 86,
+				"Price" : 0.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 115,
+				"Price" : 3.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 139,
+				"Price" : 0.4,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 26,
+				"Price" : 0.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 30,
+				"Price" : 2.1,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 32,
+				"Price" : 1.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 34,
+				"Price" : 2.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 46,
+				"Price" : 1.78,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 161,
+				"Price" : 0.89,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 10,
+				"Price" : 2.2,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 52,
+				"Price" : 1.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 61,
+				"Price" : 13.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 63,
+				"Price" : 0.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 69,
+				"Price" : 3.67,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 75,
+				"Price" : 10.27,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 165,
+				"Price" : 12.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 187,
+				"Price" : 11.91,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 169,
+				"Price" : 3.3,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 172,
+				"Price" : 11,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 174,
+				"Price" : 6.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 175,
+				"Price" : 10.46,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 176,
+				"Price" : 6.42,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 178,
+				"Price" : 8.3,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 36,
+				"Price" : 2.88,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 37,
+				"Price" : 3.1,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 64,
+				"Price" : 6.59,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 76,
+				"Price" : 4.89,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 95,
+				"Price" : 0.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 146,
+				"Price" : 6,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 25,
+				"Price" : 1.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 35,
+				"Price" : 2.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 42,
+				"Price" : 5.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 101,
+				"Price" : 3.69,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 123,
+				"Price" : 2.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 125,
+				"Price" : 3.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 41,
+				"Price" : 2.2,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 56,
+				"Price" : 7.22,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 88,
+				"Price" : 0.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 96,
+				"Price" : 2.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 120,
+				"Price" : 3.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 141,
+				"Price" : 4.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 152,
+				"Price" : 5.23,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 116,
+				"Price" : 7.12,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 131,
+				"Price" : 6.3,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 134,
+				"Price" : 1.88,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 140,
+				"Price" : 8.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 149,
+				"Price" : 18.21,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 150,
+				"Price" : 15.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 157,
+				"Price" : 9.92,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 58,
+				"Price" : 5.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 107,
+				"Price" : 2.27,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 108,
+				"Price" : 3.12,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 111,
+				"Price" : 1.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 114,
+				"Price" : 6.98,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 122,
+				"Price" : 5.21,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 177,
+				"Price" : 2.08,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 179,
+				"Price" : 5.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 181,
+				"Price" : 5.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 182,
+				"Price" : 2.28,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 183,
+				"Price" : 4.12,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 185,
+				"Price" : 2.92,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 186,
+				"Price" : 7.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 188,
+				"Price" : 0.41,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 166,
+				"Price" : 7.42,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 1,
+				"Price" : 8.45,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 2,
+				"Price" : 21.98,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 3,
+				"Price" : 1.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 9,
+				"Price" : 2.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 44,
+				"Price" : 3.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 65,
+				"Price" : 2.61,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 77,
+				"Price" : 8.66,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 43,
+				"Price" : 4.18,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 100,
+				"Price" : 5.58,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 113,
+				"Price" : 3.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 121,
+				"Price" : 6.44,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 129,
+				"Price" : 2.95,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 133,
+				"Price" : 0.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 145,
+				"Price" : 4.4,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 11,
+				"Price" : 4.76,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 50,
+				"Price" : 6.13,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 59,
+				"Price" : 10.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 91,
+				"Price" : 4.76,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 92,
+				"Price" : 3.97,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 153,
+				"Price" : 10.9,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 102,
+				"Price" : 6.81,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 104,
+				"Price" : 5.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 105,
+				"Price" : 7.78,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 106,
+				"Price" : 3.71,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 112,
+				"Price" : 11.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 127,
+				"Price" : 4.63,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 164,
+				"Price" : 2.87,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 57,
+				"Price" : 8.54,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 135,
+				"Price" : 0.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 136,
+				"Price" : 0.7,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 137,
+				"Price" : 0.67,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 138,
+				"Price" : 0.8,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 144,
+				"Price" : 4.16,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 103,
+				"Price" : 1.61,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 109,
+				"Price" : 3.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 110,
+				"Price" : 4.11,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 124,
+				"Price" : 6.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 126,
+				"Price" : 7.41,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 158,
+				"Price" : 3.69,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 6,
+				"Price" : 1.1,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 7,
+				"Price" : 8.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 8,
+				"Price" : 22.13,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 78,
+				"Price" : 9.13,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 79,
+				"Price" : 18.66,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 82,
+				"Price" : 8.98,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 38,
+				"Price" : 3.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 40,
+				"Price" : 3.58,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 54,
+				"Price" : 15.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 118,
+				"Price" : 0.48,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 130,
+				"Price" : 5.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 142,
+				"Price" : 0.77,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 162,
+				"Price" : 0.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 167,
+				"Price" : 4.4,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 168,
+				"Price" : 2.3,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 173,
+				"Price" : 4.72,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 184,
+				"Price" : 1.37,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 180,
+				"Price" : 13.05,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 171,
+				"Price" : 3,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 53,
+				"Price" : 5.12,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 60,
+				"Price" : 4.97,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 93,
+				"Price" : 3.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 97,
+				"Price" : 4.76,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 12,
+				"Price" : 2.53,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 13,
+				"Price" : 2.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 14,
+				"Price" : 4.05,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 15,
+				"Price" : 3.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 16,
+				"Price" : 1.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 18,
+				"Price" : 3.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 51,
+				"Price" : 1.76,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 89,
+				"Price" : 0.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 90,
+				"Price" : 0.72,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 94,
+				"Price" : 20.36,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 27,
+				"Price" : 24.05,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 28,
+				"Price" : 2.58,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 45,
+				"Price" : 2.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 49,
+				"Price" : 1.87,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 71,
+				"Price" : 1.28,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 72,
+				"Price" : 1.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 87,
+				"Price" : 1.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 98,
+				"Price" : 4.76,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 154,
+				"Price" : 11.9,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 155,
+				"Price" : 11,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 156,
+				"Price" : 3.1,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 17,
+				"Price" : 3.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 19,
+				"Price" : 3.22,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 20,
+				"Price" : 3.4,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 21,
+				"Price" : 3.28,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 22,
+				"Price" : 3.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 23,
+				"Price" : 4.02,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 29,
+				"Price" : 2.7,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 31,
+				"Price" : 24.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 47,
+				"Price" : 1.39,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 48,
+				"Price" : 1.59,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 148,
+				"Price" : 4.16,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 163,
+				"Price" : 0.6,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 4,
+				"Price" : 9.98,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 5,
+				"Price" : 23.08,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 80,
+				"Price" : 13.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 81,
+				"Price" : 27.03,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 159,
+				"Price" : 6.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 160,
+				"Price" : 7.12,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			}
+		],
+		"PricesSetByPlayer" : [
+			
+		],
+		"AverageCosts" : [
+			
+		],
+		"DailyPriceChanges" : [
+			
+		],
+		"PreviousPrices" : [
+			
+		],
+		"PricingDatas" : [
+			{
+				"ProductID" : 33,
+				"Price" : 2.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 70,
+				"Price" : 0.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 83,
+				"Price" : 0.79,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 84,
+				"Price" : 1.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 85,
+				"Price" : 0.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 147,
+				"Price" : 1.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 24,
+				"Price" : 0.95,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 39,
+				"Price" : 1.79,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 55,
+				"Price" : 6.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 62,
+				"Price" : 1.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 66,
+				"Price" : 0.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 151,
+				"Price" : 2.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 68,
+				"Price" : 2.95,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 99,
+				"Price" : 3.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 117,
+				"Price" : 2.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 119,
+				"Price" : 3.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 128,
+				"Price" : 3.95,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 132,
+				"Price" : 0.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 67,
+				"Price" : 0.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 73,
+				"Price" : 0.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 74,
+				"Price" : 0.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 86,
+				"Price" : 0.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 115,
+				"Price" : 3.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 139,
+				"Price" : 0.4,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 26,
+				"Price" : 0.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 30,
+				"Price" : 2.1,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 32,
+				"Price" : 1.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 34,
+				"Price" : 2.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 46,
+				"Price" : 1.78,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 161,
+				"Price" : 0.89,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 10,
+				"Price" : 2.2,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 52,
+				"Price" : 1.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 61,
+				"Price" : 13.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 63,
+				"Price" : 0.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 69,
+				"Price" : 3.67,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 75,
+				"Price" : 10.27,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 165,
+				"Price" : 12.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 187,
+				"Price" : 11.91,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 169,
+				"Price" : 3.3,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 172,
+				"Price" : 11,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 174,
+				"Price" : 6.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 175,
+				"Price" : 10.46,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 176,
+				"Price" : 6.42,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 178,
+				"Price" : 8.3,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 36,
+				"Price" : 2.88,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 37,
+				"Price" : 3.1,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 64,
+				"Price" : 6.59,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 76,
+				"Price" : 4.89,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 95,
+				"Price" : 0.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 146,
+				"Price" : 6,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 25,
+				"Price" : 1.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 35,
+				"Price" : 2.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 42,
+				"Price" : 5.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 101,
+				"Price" : 3.69,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 123,
+				"Price" : 2.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 125,
+				"Price" : 3.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 41,
+				"Price" : 2.2,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 56,
+				"Price" : 7.22,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 88,
+				"Price" : 0.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 96,
+				"Price" : 2.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 120,
+				"Price" : 3.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 141,
+				"Price" : 4.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 152,
+				"Price" : 5.23,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 116,
+				"Price" : 7.12,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 131,
+				"Price" : 6.3,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 134,
+				"Price" : 1.88,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 140,
+				"Price" : 8.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 149,
+				"Price" : 18.21,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 150,
+				"Price" : 15.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 157,
+				"Price" : 9.92,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 58,
+				"Price" : 5.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 107,
+				"Price" : 2.27,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 108,
+				"Price" : 3.12,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 111,
+				"Price" : 1.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 114,
+				"Price" : 6.98,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 122,
+				"Price" : 5.21,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 177,
+				"Price" : 2.08,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 179,
+				"Price" : 5.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 181,
+				"Price" : 5.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 182,
+				"Price" : 2.28,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 183,
+				"Price" : 4.12,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 185,
+				"Price" : 2.92,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 186,
+				"Price" : 7.75,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 188,
+				"Price" : 0.41,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 166,
+				"Price" : 7.42,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 1,
+				"Price" : 8.45,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 2,
+				"Price" : 21.98,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 3,
+				"Price" : 1.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 9,
+				"Price" : 2.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 44,
+				"Price" : 3.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 65,
+				"Price" : 2.61,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 77,
+				"Price" : 8.66,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 43,
+				"Price" : 4.18,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 100,
+				"Price" : 5.58,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 113,
+				"Price" : 3.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 121,
+				"Price" : 6.44,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 129,
+				"Price" : 2.95,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 133,
+				"Price" : 0.85,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 145,
+				"Price" : 4.4,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 11,
+				"Price" : 4.76,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 50,
+				"Price" : 6.13,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 59,
+				"Price" : 10.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 91,
+				"Price" : 4.76,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 92,
+				"Price" : 3.97,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 153,
+				"Price" : 10.9,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 102,
+				"Price" : 6.81,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 104,
+				"Price" : 5.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 105,
+				"Price" : 7.78,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 106,
+				"Price" : 3.71,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 112,
+				"Price" : 11.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 127,
+				"Price" : 4.63,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 164,
+				"Price" : 2.87,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 57,
+				"Price" : 8.54,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 135,
+				"Price" : 0.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 136,
+				"Price" : 0.7,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 137,
+				"Price" : 0.67,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 138,
+				"Price" : 0.8,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 144,
+				"Price" : 4.16,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 103,
+				"Price" : 1.61,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 109,
+				"Price" : 3.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 110,
+				"Price" : 4.11,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 124,
+				"Price" : 6.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 126,
+				"Price" : 7.41,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 158,
+				"Price" : 3.69,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 6,
+				"Price" : 1.1,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 7,
+				"Price" : 8.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 8,
+				"Price" : 22.13,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 78,
+				"Price" : 9.13,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 79,
+				"Price" : 18.66,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 82,
+				"Price" : 8.98,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 38,
+				"Price" : 3.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 40,
+				"Price" : 3.58,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 54,
+				"Price" : 15.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 118,
+				"Price" : 0.48,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 130,
+				"Price" : 5.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 142,
+				"Price" : 0.77,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 162,
+				"Price" : 0.55,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 167,
+				"Price" : 4.4,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 168,
+				"Price" : 2.3,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 173,
+				"Price" : 4.72,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 184,
+				"Price" : 1.37,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 180,
+				"Price" : 13.05,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 171,
+				"Price" : 3,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 53,
+				"Price" : 5.12,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 60,
+				"Price" : 4.97,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 93,
+				"Price" : 3.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 97,
+				"Price" : 4.76,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 12,
+				"Price" : 2.53,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 13,
+				"Price" : 2.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 14,
+				"Price" : 4.05,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 15,
+				"Price" : 3.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 16,
+				"Price" : 1.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 18,
+				"Price" : 3.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 51,
+				"Price" : 1.76,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 89,
+				"Price" : 0.99,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 90,
+				"Price" : 0.72,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 94,
+				"Price" : 20.36,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 27,
+				"Price" : 24.05,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 28,
+				"Price" : 2.58,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 45,
+				"Price" : 2.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 49,
+				"Price" : 1.87,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 71,
+				"Price" : 1.28,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 72,
+				"Price" : 1.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 87,
+				"Price" : 1.25,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 98,
+				"Price" : 4.76,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 154,
+				"Price" : 11.9,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 155,
+				"Price" : 11,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 156,
+				"Price" : 3.1,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 17,
+				"Price" : 3.15,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 19,
+				"Price" : 3.22,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 20,
+				"Price" : 3.4,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 21,
+				"Price" : 3.28,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 22,
+				"Price" : 3.65,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 23,
+				"Price" : 4.02,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 29,
+				"Price" : 2.7,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 31,
+				"Price" : 24.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 47,
+				"Price" : 1.39,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 48,
+				"Price" : 1.59,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 148,
+				"Price" : 4.16,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 163,
+				"Price" : 0.6,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 4,
+				"Price" : 9.98,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 5,
+				"Price" : 23.08,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 80,
+				"Price" : 13.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 81,
+				"Price" : 27.03,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 159,
+				"Price" : 6.5,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			},{
+				"ProductID" : 160,
+				"Price" : 7.12,
+				"LastChangeDate" : -1,
+				"DiscountRate" : 0
+			}
+		]
+	}
+	},
+	"Expenses" : {
+		"__type" : "SaveManager+ExpensesData,Assembly-CSharp",
+		"value" : {
+		"CurrentDayBillAmount" : 0,
+		"Bills" : [
+			
+		],
+		"Rents" : [
+			
+		],
+		"LoanRepayments" : [
+			
+		]
+	}
+	},
+	"Employees" : {
+		"__type" : "SaveManager+EmployeesData,Assembly-CSharp",
+		"value" : {
+		"CashiersData" : [
+			
+		],
+		"RestockersData" : [
+			
+		],
+		"CustomerHelpersData" : [
+			
+		],
+		"JanitorsData" : [
+			
+		],
+		"RestockerManagementDatas" : [
+			
+		],
+		"SecurityGuardsData" : [
+			
+		]
+	}
+	},
+	"Storage" : {
+		"__type" : "SaveManager+StorageData,Assembly-CSharp",
+		"value" : {
+		"Purchased" : false,
+		"StorageLevel" : 0
+	}
+	},
+	"NewCustomization" : {
+		"__type" : "SaveManager+CustomizationContainer,Assembly-CSharp",
+		"value" : {
+		"CustomizationData" : {
+			"ShopName" : "SuperMarket",
+			"DoorIndex" : 0,
+			"ShopNameColor" : {
+				"r" : 1,
+				"g" : 1,
+				"b" : 1,
+				"a" : 1
+			},
+			"NameBackGroundColor" : {
+				"r" : 1,
+				"g" : 0,
+				"b" : 0,
+				"a" : 1
+			},
+			"ShopNameSizeX" : 5,
+			"ShopNameSizeY" : 4,
+			"EntranceVariant" : 0,
+			"IsSignboardDefault" : true
+		},
+		"BucketSaveDataList" : [
+			
+		],
+		"FloorBoxSaveDataList" : [
+			
+		],
+		"PaintDataList" : [
+			
+		],
+		"FloorSaveDataList" : [
+			
+		],
+		"PaintedWallsCount" : 0,
+		"PaintedFloorsCount" : 0
+	}
+	},
+	"Cleaning" : {
+		"__type" : "SaveManager+CleaningContainer,Assembly-CSharp",
+		"value" : {
+		"GarbageDataList" : [
+			
+		],
+		"DirtDataList" : [
+			
+		],
+		"DustingDataList" : [
+			
+		]
+	}
+	},
+	"Quality" : {
+		"__type" : "SaveManager+SettingsContainer,Assembly-CSharp",
+		"value" : {
+		"LanguageSetting" : 0,
+		"MouseSensitivity" : 0.5,
+		"RotateSensitivity" : 0.5,
+		"InvertYAxis" : false,
+		"InvertXAxis" : false,
+		"RunInBackground" : false,
+		"EnableShoplifters" : true,
+		"QualitySetting" : 2,
+		"QualityBeforeCustomized" : 2,
+		"ResolutionSetting" : "1920x1080",
+		"FullScreen" : true,
+		"FOV" : 60,
+		"VSync" : false,
+		"IsCustomSelected" : false,
+		"TextureQuality" : 0,
+		"AntiAliasing" : 0,
+		"ShadowQuality" : 0,
+		"UpscalingFilter" : 0,
+		"IsHDROpen" : false,
+		"IsPostProcessOpen" : false,
+		"MasterVolume" : 1,
+		"MusicVolume" : 1,
+		"SFXVolume" : 1,
+		"TargetFrameRateIndex" : 6
+	}
+	},
+	"OnlineOrders" : {
+		"__type" : "SaveManager+OrdersContainer,Assembly-CSharp",
+		"value" : {
+		"LastOrderID" : 0,
+		"CompletedOrderCount" : 0,
+		"FailedOrderCount" : 0,
+		"OrdersGenerated" : [
+			
+		],
+		"OrdersPlannedForToday" : [
+			
+		],
+		"PaperbagProducts" : [
+			
+		]
+	}
+	}
+}
