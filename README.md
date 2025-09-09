@@ -4,7 +4,7 @@
 
 --- 
 
-If one supermarket is not enough, Supermarket Simulator Save Selector is your new launcher! This python launcher will allow you to create new slots, and switch between your supermarkets without losing your progresses!
+If one supermarket is not enough, Supermarket Simulator Save Selector is your new launcher! This python launcher will allow you to create new slots, and switch between your supermarkets without losing your progresses on Supermarket Simulator!
 
 ## Requirements
 
@@ -39,3 +39,4 @@ After selecting one of these options, the tool will launch the game, and when yo
 **That's it! Enjoy your supermarkets!**
 
 <sub>If you find a bug, please open a issue on github and I'll try to take care of it ASAP. Thanks for your support <3</sub>
+
