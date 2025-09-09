@@ -12,7 +12,7 @@ If one supermarket is not enough, Supermarket Simulator Save Selector is your ne
    Supermarket Simulator in your library, select Properties, and uncheck the "Keep 
   game's saves in the Steam Cloud" box under the General tab. This step will avoid the cloud savefiles overwriting the slots created by the tool.
 
-- And clearly you should have Python3 installed on your PC.
+- You should have Python3 installed on your PC.
 
 - Notice that this tool will only work on Windows.
 
@@ -39,4 +39,5 @@ After selecting one of these options, the tool will launch the game, and when yo
 **That's it! Enjoy your supermarkets!**
 
 <sub>If you find a bug, please open a issue on github and I'll try to take care of it ASAP. Thanks for your support <3</sub>
+
 
