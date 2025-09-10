@@ -22,9 +22,13 @@ Now you're ready to go!
 
 ## Usage
 
-After downloading this tool, open the cmd in the repository's folder. To run the tool just execute:
+After downloading this tool, you have two ways to execute it:
 
-> python3 SupermarketSimulatorSaveSelector.py
+- open the cmd in the repository's folder. To run the tool just execute:
+  
+  > python3 SupermarketSimulatorSaveSelector.py
+
+- Double-click on `SupermarketSimulatorSaveSelector.bat`.
 
 The tool will allow you to:
 
