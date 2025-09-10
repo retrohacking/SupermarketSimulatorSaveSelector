@@ -4,7 +4,7 @@
 
 --- 
 
-If one supermarket is not enough, Supermarket Simulator Save Selector is your new launcher! This python launcher will allow you to create new slots, and switch between your supermarkets without losing your progresses on Supermarket Simulator!
+If one supermarket is not enough, Supermarket Simulator Save Selector is your new launcher! This python launcher will allow you to create new slots, and switch between your supermarkets without losing your progresses!
 
 ## Requirements
 
@@ -12,7 +12,7 @@ If one supermarket is not enough, Supermarket Simulator Save Selector is your ne
    Supermarket Simulator in your library, select Properties, and uncheck the "Keep 
   game's saves in the Steam Cloud" box under the General tab. This step will avoid the cloud savefiles overwriting the slots created by the tool.
 
-- You should have Python3 installed on your PC.
+- And clearly you should have Python3 installed on your PC.
 
 - Notice that this tool will only work on Windows.
 
@@ -30,7 +30,7 @@ The tool will allow you to:
 
 - create new supermarkets: just remember that when you want to start a new supermarket you should create it with this tool, and not with in game, in order to keep the launcher working correctly.
 
-- load the supermarket you want to play with.
+- load the supermarket you want to play with: the menu will show you the available slots + the supermarket name so that it's easier to distinguish the different files.
 
 After selecting one of these options, the tool will launch the game, and when you close it, it will update the right slot for you.
 
@@ -39,5 +39,3 @@ After selecting one of these options, the tool will launch the game, and when yo
 **That's it! Enjoy your supermarkets!**
 
 <sub>If you find a bug, please open a issue on github and I'll try to take care of it ASAP. Thanks for your support <3</sub>
-
-

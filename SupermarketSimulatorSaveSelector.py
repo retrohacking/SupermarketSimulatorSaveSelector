@@ -8,6 +8,13 @@ SAVE_PATH =  os.path.expanduser('~\\AppData\\LocalLow\\Nokta Games\\Supermarket 
 SLOT_PATH =  os.path.expanduser('~\\AppData\\LocalLow\\Nokta Games\\Supermarket Simulator\\Slots')
 AVAILABLE_OPTIONS = 3
 
+def getmarketname(sf):
+    with open(sf) as f:
+        savefile = f.read()
+        marketname=savefile.split("ShopName\" : \"")[-1].split("\"")[0]
+        return marketname
+
+
 def saveslot(sf):
     savefiles = glob.glob(SAVE_PATH+"\\*.es3")
     latest_savefile = max(savefiles, key= os.path.getmtime)
@@ -23,7 +30,8 @@ def loadexistingsavefile():
     savelist = glob.glob(SLOT_PATH+"\\*.es3")
     count=0
     for file in savelist:
-        print("["+str(count)+"] "+file.split("\\")[-1])
+        marketname = getmarketname(file)
+        print("["+str(count)+"] "+file.split("\\")[-1]+" - "+marketname)
         count+=1
 
     choice = int(input("\n>"))
