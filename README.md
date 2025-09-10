@@ -36,6 +36,8 @@ The tool will allow you to:
 
 - load the supermarket you want to play with: the menu will show you the available slots + the supermarket name so that it's easier to distinguish the different files.
 
+- delete slots you don't need anymore.
+
 After selecting one of these options, the tool will launch the game, and when you close it, it will update the right slot for you.
 
 ---

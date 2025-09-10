@@ -6,7 +6,7 @@ import subprocess
 GAME_PATH = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Supermarket Simulator\\Supermarket Simulator.exe"
 SAVE_PATH =  os.path.expanduser('~\\AppData\\LocalLow\\Nokta Games\\Supermarket Simulator')
 SLOT_PATH =  os.path.expanduser('~\\AppData\\LocalLow\\Nokta Games\\Supermarket Simulator\\Slots')
-AVAILABLE_OPTIONS = 3
+AVAILABLE_OPTIONS = 4
 
 def getmarketname(sf):
     with open(sf) as f:
@@ -14,11 +14,36 @@ def getmarketname(sf):
         marketname=savefile.split("ShopName\" : \"")[-1].split("\"")[0]
         return marketname
 
+def deletesavefile():
+    savelist = glob.glob(SLOT_PATH+"\\*.es3")
+    count=0
+    print("Which slot do you want to delete?\n")
+    for file in savelist:
+        marketname = getmarketname(file)
+        print("["+str(count)+"] "+file.split("\\")[-1]+" - "+marketname)
+        count+=1
+
+    choice = int(input("\n>"))
+    while (choice not in range (0, count)):
+        choice = int(input("Please insert a valid option\n>"))
+
+    print("This action will delete "+savelist[choice].split("\\")[-1]+". Are you sure? [y/N]")
+    delconfirm = input(">")
+    if delconfirm=="y" or delconfirm=="Y":
+        os.remove(savelist[choice])
+        print (savelist[choice].split("\\")[-1] +" has been deleted. :(")
+        input("Bye Bye!")
+    else:
+        print("Deletion has been cancelled.")
+        input("Bye Bye!")
+
 
 def saveslot(sf):
     savefiles = glob.glob(SAVE_PATH+"\\*.es3")
     latest_savefile = max(savefiles, key= os.path.getmtime)
     shutil.copy(latest_savefile, sf)
+    print("New modifications, if any has been done, have been saved!")
+    input("Bye Bye!")
 
 def setsavefiletoload(sf):
     fileslist=glob.glob(SAVE_PATH+"\\*.es3")
@@ -29,6 +54,7 @@ def setsavefiletoload(sf):
 def loadexistingsavefile():
     savelist = glob.glob(SLOT_PATH+"\\*.es3")
     count=0
+    print("Which slot do you want to load?\n")
     for file in savelist:
         marketname = getmarketname(file)
         print("["+str(count)+"] "+file.split("\\")[-1]+" - "+marketname)
@@ -75,6 +101,8 @@ def switch_option(option):
             loadexistingsavefile()
         case 2:
             create_newsavefile()
+        case 3:
+            deletesavefile()
         case _ :
             exit()
 
@@ -110,6 +138,7 @@ def main():
     print ("Select an option to start the game:")
     print ("[1] Load a slot")
     print ("[2] Create new save")
+    print ("[3] Delete a savefile")
     print ("[0] Exit")
     option = select_option()
     switch_option(option)
